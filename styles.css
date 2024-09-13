@@ -35,7 +35,7 @@ a {
 }
 
 body {
-  background-color: #e2e8f0;
+  background-color: #fff0f3;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -141,13 +141,13 @@ button {
   border: none;
   padding: 1.2rem 1.6rem;
   border-radius: 0.4rem;
-  background-color: #3e66f6;
+  background-color: #ff5c8a;
   color: #f8f9fa;
   transition: all 0.3s ease;
 }
 
 button:hover,
 button:focus {
-  background-color: #204ef4;
+  background-color: #ff0a54;
   cursor: pointer;
 }
